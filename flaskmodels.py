@@ -5,7 +5,7 @@ import json
 app = Flask(__name__)
 app.secret_key = 'huankk123@@' 
 
-API_KEY = "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"
+API_KEY = "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"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 # Cấu hình các mô hình chatbot
